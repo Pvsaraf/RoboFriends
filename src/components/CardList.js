@@ -10,6 +10,12 @@ const CardList = ({robots}) => {
     //      email = {robots[i].email}
     //     />
     // })
+
+    // if(true)
+    // {
+    //     throw new Error("No!!!")
+    // }
+
     return (
         <div>
             {
